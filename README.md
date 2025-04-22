@@ -212,5 +212,3 @@ MIT License — Free to use, modify, and distribute.
 > You own your AI agents.
 
 ---
-
-'give me in code format'
