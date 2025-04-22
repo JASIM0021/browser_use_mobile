@@ -34,6 +34,14 @@ sequenceDiagram
 
 ---
 
+---
+## Demo
+
+![browser-use-mobile-client-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a3b7e5cd-76cb-4f46-bd95-54e03596d7e1)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 🖥️ Desktop Agent App
