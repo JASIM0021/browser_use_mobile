@@ -1,0 +1,6 @@
+briefcase dev
+# or build a .app
+briefcase build
+briefcase run
+# and create a standalone distributable
+briefcase package
